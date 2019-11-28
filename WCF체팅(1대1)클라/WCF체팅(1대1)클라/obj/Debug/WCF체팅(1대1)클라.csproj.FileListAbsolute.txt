@@ -1,0 +1,18 @@
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\bin\Debug\WCF체팅(1대1)클라.exe.config
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅_1대1_클라.Form1.resources
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅_1대1_클라.Properties.Resources.resources
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.csproj.GenerateResource.Cache
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\bin\Debug\WCF체팅(1대1)클라.exe
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\bin\Debug\WCF체팅(1대1)클라.pdb
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.exe
+D:\MYFIle\프로그램\WCF\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.pdb
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\bin\Debug\WCF체팅(1대1)클라.exe.config
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.exe
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.pdb
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\bin\Debug\WCF체팅(1대1)클라.exe
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\bin\Debug\WCF체팅(1대1)클라.pdb
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅_1대1_클라.Form1.resources
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅_1대1_클라.Properties.Resources.resources
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF체팅(1대1)클라\WCF체팅(1대1)클라\obj\Debug\WCF체팅(1대1)클라.csproj.GenerateResource.Cache

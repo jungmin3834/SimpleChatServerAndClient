@@ -1,0 +1,9 @@
+D:\MYFIle\프로그램\WCF\WCF파일(1대다합)서버\WCF파일(1대다합)서버\bin\Debug\WCF파일(1대다합)서버.exe.config
+D:\MYFIle\프로그램\WCF\WCF파일(1대다합)서버\WCF파일(1대다합)서버\obj\Debug\WCF파일(1대다합)서버.csprojResolveAssemblyReference.cache
+D:\MYFIle\프로그램\WCF\WCF파일(1대다합)서버\WCF파일(1대다합)서버\bin\Debug\WCF파일(1대다합)서버.exe
+D:\MYFIle\프로그램\WCF\WCF파일(1대다합)서버\WCF파일(1대다합)서버\bin\Debug\WCF파일(1대다합)서버.pdb
+D:\MYFIle\프로그램\WCF\WCF파일(1대다합)서버\WCF파일(1대다합)서버\obj\Debug\WCF파일(1대다합)서버.exe
+D:\MYFIle\프로그램\WCF\WCF파일(1대다합)서버\WCF파일(1대다합)서버\obj\Debug\WCF파일(1대다합)서버.pdb
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF파일(1대다합)서버\WCF파일(1대다합)서버\bin\Debug\WCF파일(1대다합)서버.exe.config
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF파일(1대다합)서버\WCF파일(1대다합)서버\obj\Debug\WCF파일(1대다합)서버.exe
+C:\Users\MSI\Desktop\프젝정리\고치기 필요\WCF파일(1대다합)서버\WCF파일(1대다합)서버\obj\Debug\WCF파일(1대다합)서버.pdb
